@@ -1,0 +1,5 @@
+print("Africa's growing technology ecosystem is expanding rapidly")
+print("driven by a young population")
+print("mobile connectivity and growing venture capital")
+print("beyond traditional hubs")
+print("Over 1000 tech hubs operate across the continent")
